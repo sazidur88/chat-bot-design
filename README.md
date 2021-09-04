@@ -1,1 +1,1 @@
-chat-bot-design
+A simple Chat Bot UI design
